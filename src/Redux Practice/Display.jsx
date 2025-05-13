@@ -10,7 +10,7 @@ const Display = () => {
     <div>
       <div>
         <h1>Practice Session</h1>
-        <h2>{`Value: ${value}`}</h2>
+        <h2>{`Number Value: ${value}`}</h2>
       </div>
 
       <div>
